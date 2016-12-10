@@ -1,0 +1,8 @@
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetry\bin\Debug\StopCompatTelemetry.exe.config
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetry\bin\Debug\StopCompatTelemetry.exe
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetry\bin\Debug\StopCompatTelemetry.pdb
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetry\obj\Debug\StopCompatTelemetry.exe
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetry\obj\Debug\StopCompatTelemetry.pdb
+D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\bin\Debug\StopCompatTelemetry.exe.config
+D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\obj\Debug\StopCompatTelemetry.exe
+D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\obj\Debug\StopCompatTelemetry.pdb

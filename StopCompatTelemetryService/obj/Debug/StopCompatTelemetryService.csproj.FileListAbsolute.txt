@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopComaptTelemetry\bin\Debug\StopComaptTelemetry.exe.config
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopComaptTelemetry\bin\Debug\StopComaptTelemetry.exe
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopComaptTelemetry\bin\Debug\StopComaptTelemetry.pdb
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopComaptTelemetry\obj\Debug\StopCompatTelemetryService.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopComaptTelemetry\obj\Debug\StopComaptTelemetry.exe
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopComaptTelemetry\obj\Debug\StopComaptTelemetry.pdb
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryService\bin\Debug\StopComaptTelemetry.exe.config
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryService\obj\Debug\StopComaptTelemetry.exe
+d:\documents\visual studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryService\obj\Debug\StopComaptTelemetry.pdb

@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\bin\Release\StopCompatTelemetry.exe.config
+D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\bin\Release\StopCompatTelemetry.exe
+D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\bin\Release\StopCompatTelemetry.pdb
+D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\obj\Release\StopCompatTelemetry.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\obj\Release\StopCompatTelemetryApp.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\obj\Release\StopCompatTelemetry.exe
+D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\obj\Release\StopCompatTelemetry.pdb

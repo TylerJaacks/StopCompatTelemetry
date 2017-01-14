@@ -17,14 +17,12 @@ namespace StopCompatTelemetry
                     foreach (Process process in Process.GetProcessesByName("CompatTelRunner"))
                     {
                         process.Kill();
-                        Console.WriteLine("Successfully killed the process.");
                     }
+
+                    System.Threading.Thread.Sleep(5);
                 }
 
-                catch (Exception e)
-                {
-                    Console.WriteLine("{0} Exception caught.", e);
-                }
+                catch (Exception e) { }
             }
         }
     }

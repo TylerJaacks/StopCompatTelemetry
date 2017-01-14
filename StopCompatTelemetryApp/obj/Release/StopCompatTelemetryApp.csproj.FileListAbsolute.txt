@@ -5,3 +5,4 @@ D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetry
 D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\obj\Release\StopCompatTelemetryApp.csproj.GenerateResource.Cache
 D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\obj\Release\StopCompatTelemetry.exe
 D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\obj\Release\StopCompatTelemetry.pdb
+D:\Documents\Visual Studio 2015\Projects\StopCompatTelemetry\StopCompatTelemetryApp\obj\Release\StopCompatTelemetryApp.csprojResolveAssemblyReference.cache
